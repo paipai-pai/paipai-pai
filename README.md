@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 
 只会写hello world😂
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paipai-pai&layout=compact)](https://github.com/anuraghazrai/github-readme-stats)
 
 经常整的活
 
