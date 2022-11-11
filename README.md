@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 欢迎访问我的[博客](https://blog.p4i.top/)
 
-* 一只被考研锁死都🐕
+* 一只被考研锁死的无业游民
 * 刚开始入门的小白<img src="https://raw.githubusercontent.com/mzdluo123/blog_imgs/master/img/mc.ico" height="20" width="20"/> 
 * 摸鱼划水运动爱好者
 * 干啥啥不行，摸鱼第一名🐟
