@@ -1,35 +1,29 @@
 ### Hi there 👋
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%2C%20Guys!;今天你摸鱼了嘛!&center=true&size=27">
+  </a>
+</h1>
 
-<!--
-**paipai-pai/paipai-pai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=paipai-pai&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+<!-- 敲代码的图片 -->
+<div align="left" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/paipai-pai/blog-img/blog-imgcode.gif?raw=true" width="500" height="320"/></div>
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=paipai-pai&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 </a>
+<br>
 
-你好！(。・∀・)ノ这里是我的GitHub个人主页。
 
-欢迎访问我的[博客](https://blog.p4i.top/)
+你好！(。・∀・)ノ这里是阿pai的主页。欢迎访问我的[博客](https://blog.p4i.top/)
 
-* 一只被考研锁死的无业游民
-* 刚开始入门的小白<img src="https://raw.githubusercontent.com/mzdluo123/blog_imgs/master/img/mc.ico" height="20" width="20"/> 
-* 摸鱼划水运动爱好者
-* 干啥啥不行，摸鱼第一名🐟
+* 🌱一只被考研锁死的无业游民
+* 🤔一直没有进步的小白，希望现在开始不算太晚by2022.11
+* 🐟摸鱼划水运动爱好者，干啥啥不行，摸鱼第一名🐟
 
 
 只会写hello world😂
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paipai-pai&layout=compact)](https://github.com/anuraghazrai/github-readme-stats)
+
 
 经常整的活
 
