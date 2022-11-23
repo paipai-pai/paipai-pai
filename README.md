@@ -1,4 +1,3 @@
-### Hi there 👋
 <!-- 动态打字效果 -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%2C%20Guys!;今天你摸鱼了嘛!&center=true&size=27">
@@ -7,19 +6,22 @@
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/paipai-pai/blog-img/blog-imgcode.gif?raw=true" width="500" height="320"/></div>
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=paipai-pai&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-</a>
+
 <br>
 
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/paipai-pai/paipai-pai/assets/github-contribution-grid-snake.svg" /></div>
 
+
+### Hi there 👋
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=paipai-pai&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+</a>
 你好！(。・∀・)ノ这里是阿pai的主页。欢迎访问我的[博客](https://blog.p4i.top/)
 
 * 🌱一只被考研锁死的无业游民
 * 🤔一直没有进步的小白，希望现在开始不算太晚by2022.11
 * 🐟摸鱼划水运动爱好者，干啥啥不行，摸鱼第一名🐟
 * 显然从旁边的卡片你能看出来我是个菜鸡🐇
-
-<!-- 贪吃蛇代码贡献图 -->
 
 
 
