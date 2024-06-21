@@ -10,7 +10,7 @@
 <br>
 
 <!-- 贪吃蛇代码贡献图 -->
-![]([https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/paipai-pai/paipai-pai/output/github-contribution-grid-snake.svg))
+![]([https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg]
 
 
 ### Hi there 👋
