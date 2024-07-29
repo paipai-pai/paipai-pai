@@ -18,9 +18,9 @@
 </a>
 你好！(。・∀・)ノ这里是阿pai的主页。欢迎访问我的[博客](https://blog.p4i.top/)
 
-* 🌱一只被考研锁死的无业游民
-* 🤔一直没有进步的小白，希望现在开始不算太晚by2022.11
-* 🐟摸鱼划水运动爱好者，干啥啥不行，摸鱼第一名🐟
+* 🌱国企打工🐂🐎
+* 🤔每天学习，每周更新，立志成为全栈开发&白帽子by2024.07
+* 🐟摸鱼划水爱好者，干啥啥不行，摸鱼第一名🐟
 * 显然从旁边的卡片你能看出来我是个菜鸡🐇
 
 
@@ -53,5 +53,3 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
-
-![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=paipai-pai.paipai-pai.readme)
